@@ -1,2 +1,3 @@
-const something = 2
-export {something}
+import { run } from "./storyblok-types-madness/omit-fields";
+
+run();
